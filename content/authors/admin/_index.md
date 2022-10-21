@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Dongqi Luo 罗东琦
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Dongqi
+last_name: Luo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoc researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tsinghua University
+    url: https://www.tsinghua.edu.cn/index.htm
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
