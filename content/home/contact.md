@@ -28,9 +28,9 @@ content:
   email: dongqiluo@gmail.com
   phone: 18110028526
   address:
-    street: 450 Serra Mall
+    street: Tsinghua University
+    district: Haidian
     city: Beijing
-    region: CA
     postcode: '100084'
     country: China
     country_code: CN
