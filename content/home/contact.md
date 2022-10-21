@@ -25,19 +25,19 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: dongqiluo@gmail.com
+  phone: 18110028526
   address:
     street: 450 Serra Mall
-    city: Stanford
+    city: Beijing
     region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    postcode: '100084'
+    country: China
+    country_code: CN
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Room 328, Main Building
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
